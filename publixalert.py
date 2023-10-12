@@ -15,7 +15,7 @@ for deal in bogo_deals:
 
 
 # Functions
-def find_items(shoppling_list, bogo_items):
+def find_items(shopping_list, bogo_items):
     matching_items = []
 
     for shopping_item in shopping_list:
